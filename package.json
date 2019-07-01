@@ -1,11 +1,11 @@
 {
   "name": "pdftojpg",
   "version": "0.0.1",
-  "description": "Converts a PDF file to a JPG file",
+  "description": "将PDF文件转换成JPG文件",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "ur": "https://github.com/vesteraas/pdftojpg"
+    "ur": "https://github.com/sunjiaying/pdftojpg"
   },
   "scripts": {
     "test": "node test.js"
@@ -15,7 +15,7 @@
     "jpg",
     "convert"
   ],
-  "author": "wvesteraas@gmail.com",
+  "author": "sunjoin@qq.com",
   "license": "ISC",
   "dependencies": {
     "glob": "^7.0.3",
