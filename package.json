@@ -1,11 +1,11 @@
 {
-  "name": "pdftojpg",
+  "name": "pdf2jpg.js",
   "version": "0.0.1",
   "description": "将PDF文件转换成JPG文件",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "ur": "https://github.com/sunjiaying/pdftojpg"
+    "ur": "https://github.com/sunjiaying/pdf2jpg.js"
   },
   "scripts": {
     "test": "node test.js"
